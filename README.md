@@ -34,7 +34,7 @@
 
 <br/>  
 
-## Connect with me 
+
 <h2 align="center">FIND ME ON:</h1>
 <div align="center">
         <a href="https://t.me/DaGeraskin">
