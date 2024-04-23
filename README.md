@@ -31,6 +31,12 @@
 
 
 ## Connect with me 
+<h2 align="center">FIND ME ON:</h1>
+<div align="center">
+        <a href="https://t.me/DaGeraskin">
+        <img src="https://img.shields.io/badge/Telegram-42aaff?logo=Telegram&labelColor=black">
+        </a>
+</div>
   
 
 <br/>  
