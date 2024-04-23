@@ -14,14 +14,18 @@
 
 <br/>  
 
-
 ## My Skill Set  
 ![Static Badge](https://img.shields.io/badge/Python-61DBFB?logo=Python&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Jupyter-ffa500?logo=Jupyter&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Pandas-8b00ff?logo=Pandas&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Numpy-0000ff?logo=Numpy&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Git-ff2b2b?logo=Git&labelColor=black)
-
+![Static Badge](https://img.shields.io/badge/Tableau-ffa500?logo=Tableau&labelColor=black)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-0000ff?logo=PostgreSQL&labelColor=black)
+![Static Badge](https://img.shields.io/badge/MySQL-0000ff?logo=MySQL&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Airflow-ffff00?logo=Airflow&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Matplotlib-ffff00?logo=Matplotlib&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Seaborn-ffff00?logo=Seaborn&labelColor=black)
 
 <br/>  
 
