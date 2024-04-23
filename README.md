@@ -19,7 +19,7 @@
 <table><tr><td valign="top" width="33%">
 
 <div align="center">
-<img src="https://cdn-edge.kwork.ru/pics/t3/35/28189532-64b6f15723d9a.jpg" align="center" height="60" width="" />
+<img src="[https://cdn-edge.kwork.ru/pics/t3/35/28189532-64b6f15723d9a.jpg](https://storage.yandexcloud.net/pfm-prod/images/img_636a12f3c16df.jpg)" align="center" height="60" width="" />
 </div>  
   
 
