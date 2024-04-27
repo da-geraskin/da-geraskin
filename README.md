@@ -13,6 +13,11 @@
 - 🔭 Построение дэшборда "Уровень удовлетворенности сотрудников" в [Tableau](https://public.tableau.com/app/profile/danila.geraskin/viz/Project_3_17085364590900/Dashboard1?publish=yes).  
 <br/>
 
+<br/>
+## Certificates
+
+<br/>
+
 <br/>  
 
 ## My Skill Set  
