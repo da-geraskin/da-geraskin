@@ -16,8 +16,7 @@
 <br/>
 
 ## Certificates
-![Screenshot]([https://user-images.githubusercontent.com/104904113/202023317-31c193cc-7770-40fe-ac34-673237befc0e.jpg](https://github.com/da-geraskin/da-geraskin/blob/4a8115efdf9ceaa0776001cbb3666784ca6a81cd/Screenshot_5.png))
-
+![Screenshot](https://github.com/da-geraskin/blob/main/Screenshot_5.png)
 
 <br/>  
 
