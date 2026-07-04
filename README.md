@@ -15,12 +15,31 @@
 
 <br/>
 
-## Certificates
-![Screenshot](https://github.com/da-geraskin/da-geraskin/blob/main/Screenshot_5.png)
-Link: https://lab.karpov.courses/certificate/6dfe6125-d034-40eb-b25a-09f1ee589767/
+## 🏆 Certificates
 
-<img width="1405" height="830" alt="image" src="https://github.com/user-attachments/assets/085ca0af-a689-4323-9f8b-35b1ef2f37c9" />
+<table>
+<tr>
+<td align="center" width="50%">
 
+### 📊 Data Analyst
+**Karpov.Courses**
+
+<a href="https://lab.karpov.courses/certificate/6dfe6125-d034-40eb-b25a-09f1ee589767/">
+    <img src="https://github.com/da-geraskin/da-geraskin/blob/main/Screenshot_5.png" width="450">
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🛠 Data Engineer
+**Yandex Practicum**
+
+<img src="https://github.com/user-attachments/assets/085ca0af-a689-4323-9f8b-35b1ef2f37c9" width="450">
+
+</td>
+</tr>
+</table>
 
 
 
