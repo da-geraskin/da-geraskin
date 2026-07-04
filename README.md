@@ -22,17 +22,34 @@ Link: https://lab.karpov.courses/certificate/6dfe6125-d034-40eb-b25a-09f1ee58976
 <br/>  
 
 ## My Skill Set  
-![Static Badge](https://img.shields.io/badge/Python-61DBFB?logo=Python&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Jupyter-ffa500?logo=Jupyter&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Pandas-8b00ff?logo=Pandas&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Numpy-0000ff?logo=Numpy&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Git-ff2b2b?logo=Git&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Tableau-ffa500?logo=Tableau&labelColor=black)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-0000ff?logo=PostgreSQL&labelColor=black)
-![Static Badge](https://img.shields.io/badge/MySQL-0000ff?logo=MySQL&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Airflow-ffff00?logo=Airflow&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Matplotlib-ffff00?logo=Matplotlib&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Seaborn-ffff00?logo=Seaborn&labelColor=black)
+### Programming & Data Processing
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+
+### Databases & Data Warehousing
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Greenplum](https://img.shields.io/badge/Greenplum-009639?logo=vmware&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?logo=apachehive&logoColor=black)
+
+### Big Data
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
+![CDC](https://img.shields.io/badge/CDC-0078D4?logo=microsoft&logoColor=white)
+
+### ETL & Orchestration
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-00599C?logo=databricks&logoColor=white)
+
+### BI & Visualization
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?logo=apachesuperset&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 <br/>  
 
