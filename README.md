@@ -1,4 +1,4 @@
-<img width="1364" height="810" alt="image" src="https://github.com/user-attachments/assets/9fbb6ae3-ebf9-4875-b097-54f20367bc23" />### <div align="center">Всем привет🖐️, меня зовут Гераськин Данила!
+### <div align="center">Всем привет🖐️, меня зовут Гераськин Данила!
 <br/>
 Я выпускник МГТУ СТАНКИН с бакалаврской степенью по специальности "Информатика и вычислительная техника". С октября 2023 года я занимаюсь анализом данных, пройдя курс "Аналитик данных" от Karpov.courses. Я постоянно совершенствую свои навыки в анализе данных, изучая книги и проходя дополнительные курсы.
 Вот мои проекты:👇</div>  
@@ -18,6 +18,9 @@
 ## Certificates
 ![Screenshot](https://github.com/da-geraskin/da-geraskin/blob/main/Screenshot_5.png)
 Link: https://lab.karpov.courses/certificate/6dfe6125-d034-40eb-b25a-09f1ee589767/
+
+<img width="1405" height="830" alt="image" src="https://github.com/user-attachments/assets/085ca0af-a689-4323-9f8b-35b1ef2f37c9" />
+
 
 
 
