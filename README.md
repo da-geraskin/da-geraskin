@@ -18,7 +18,6 @@
 ## Certificates
 ![Screenshot](https://github.com/da-geraskin/da-geraskin/blob/main/Screenshot_5.png)
 Link: https://lab.karpov.courses/certificate/6dfe6125-d034-40eb-b25a-09f1ee589767/
-<img width="1405" height="830" alt="image" src="https://github.com/user-attachments/assets/23c61deb-13a9-4dfc-96f9-90b69a599b6f" />
 
 
 
