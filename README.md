@@ -53,14 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=da-geraskin&show_icons=true&hide_border=true" />
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
