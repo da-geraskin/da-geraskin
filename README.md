@@ -1,3 +1,5 @@
+<br/> 
+
 # 👋 Hi, I'm Danila!
 
 💻 **Data Engineer** passionate about building scalable data platforms, designing data warehouses, and developing reliable ETL/ELT pipelines.
@@ -31,6 +33,9 @@
 ## 📫 Connect with Me
 
 Feel free to connect with me or check out my projects below! 🚀
+
+<br/> 
+
 
 ## 🏆 Certificates
 
