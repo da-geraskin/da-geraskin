@@ -19,9 +19,9 @@
 - **Databases:** MS SQL Server, PostgreSQL, Greenplum
 - **Big Data:** Apache Spark, PySpark, Hadoop, Hive
 - **Orchestration:** Apache Airflow
-- **BI:** Apache Superset, Power BI, Qlik Sense
-- **Tools:** Git, GitHub, Jupyter Notebook
-- **Concepts:** ETL, ELT, Data Warehousing, CDC, Data Quality
+- **BI:** Apache Superset
+- **Tools:** Git, Jupyter Notebook
+- **Concepts:** ETL, Data Warehousing, CDC, Data Quality
 
 ## 🌱 Currently Learning
 
