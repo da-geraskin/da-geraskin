@@ -1,19 +1,36 @@
-### <div align="center">Всем привет🖐️, меня зовут Гераськин Данила!
-<br/>
-Я выпускник МГТУ СТАНКИН с бакалаврской степенью по специальности "Информатика и вычислительная техника". С октября 2023 года я занимаюсь анализом данных, пройдя курс "Аналитик данных" от Karpov.courses. Я постоянно совершенствую свои навыки в анализе данных, изучая книги и проходя дополнительные курсы.
-Вот мои проекты:👇</div>  
-  
+# 👋 Hi, I'm Danila!
 
-- 🔭 Анализ жизненного цикла пользователя и оптимизация вовлеченности на [Github](https://github.com/da-geraskin/MobileAppAnalysis/tree/main);  
-  
+💻 **Data Engineer** passionate about building scalable data platforms, designing data warehouses, and developing reliable ETL/ELT pipelines.
 
-- 🔭 Анализ пользовательского поведения в Онлайн-Магазине на [Github](https://github.com/da-geraskin/OnlineStoreAnalysis/tree/main);  
-  
+## 🚀 About Me
 
-- 🔭 Построение дэшборда "Уровень удовлетворенности сотрудников" в [Tableau](https://public.tableau.com/app/profile/danila.geraskin/viz/Project_3_17085364590900/Dashboard1?publish=yes).  
-<br/>
+- 🔹 Data Engineer with experience in designing and developing enterprise Data Warehouses (DWH)
+- 🔹 Building ETL/ELT pipelines using **Python**, **MS SQL Server**, and **Apache Airflow**
+- 🔹 Working with **Big Data** technologies: **Spark**, **PySpark**, **Hive**, and **Hadoop**
+- 🔹 Developing data marts, ensuring data quality, and optimizing SQL queries
+- 🔹 Preparing data for analytics, BI, and Machine Learning solutions
+- 🔹 Always learning and improving my skills in modern Data Engineering and Cloud technologies
 
-<br/>
+## 🛠 Tech Stack
+
+- **Languages:** Python, SQL (T-SQL)
+- **Databases:** MS SQL Server, PostgreSQL, Greenplum
+- **Big Data:** Apache Spark, PySpark, Hadoop, Hive
+- **Orchestration:** Apache Airflow
+- **BI:** Apache Superset, Power BI, Qlik Sense
+- **Tools:** Git, GitHub, Jupyter Notebook
+- **Concepts:** ETL, ELT, Data Warehousing, CDC, Data Quality
+
+## 🌱 Currently Learning
+
+- Cloud Data Engineering
+- Distributed Data Processing
+- Modern Data Architecture
+- Machine Learning Infrastructure
+
+## 📫 Connect with Me
+
+Feel free to connect with me or check out my projects below! 🚀
 
 ## 🏆 Certificates
 
